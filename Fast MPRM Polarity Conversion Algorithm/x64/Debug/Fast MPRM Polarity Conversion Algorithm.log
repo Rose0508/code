@@ -1,0 +1,23 @@
+﻿  compression_encoding.cpp
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\compression_encoding.cpp(22,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\compression_encoding.cpp(54,19): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\compression_encoding.cpp(67,18): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  generate_initial_population.cpp
+  main.cpp
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\main.cpp(150,6): warning C4101: “G”: 未引用的局部变量
+  polarity_conversion.cpp
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(40,20): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(53,19): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(129,20): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(150,19): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(221,23): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(237,23): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(255,22): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(281,23): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(305,23): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(331,22): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(386,18): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(387,17): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\polarity_conversion.cpp(394,18): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+  正在生成代码...
+  Fast MPRM Polarity Conversion Algorithm.vcxproj -> D:\vsworkspace\Fast MPRM Polarity Conversion Algorithm\x64\Debug\Fast MPRM Polarity Conversion Algorithm.exe
